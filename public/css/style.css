@@ -1894,6 +1894,10 @@ footer .credit span {
     max-width: 100%;
   } */
 
+  .contact .row .image img {
+    display: none;
+  }
+
   .swiper-slide.slide .content h1 { 
     /* font-size: 1.8rem; */
     /* margin-bottom: 10px;  */
@@ -1932,6 +1936,18 @@ footer .credit span {
    margin-bottom: 70px !important;
    padding: 0.8rem 1.6rem !important;
  } 
+ .teachers .slide .content h3 {
+  font-size: 2rem;
+  /* line-height: 2rem; */
+  text-transform: capitalize;
+  color: #020024;
+}
+.teachers .slide .content span {
+  font-size: 2rem;
+  line-height: .5rem;
+  color: #020024;
+  margin-top: -20px;
+}
 
 
 
