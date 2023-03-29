@@ -957,12 +957,13 @@ footer .credit {
   padding-top: 3rem;
   font-size: 1.5rem;
   text-transform: capitalize;
-  color: #444;
+  color: whitesmoke;
   border-top: 0.1rem solid whitesmoke;
 }
 
 footer .credit span {
-  color: whitesmoke;
+  font-size: 2rem;
+  color: #0057FF;
 }
 
 
@@ -974,11 +975,11 @@ footer .credit span {
   z-index: 1000;
 }
 
-.count {
+/* .count {
 
-  background: linear-gradient(0deg, rgb(132, 144, 255) 0%, rgb(98, 189, 252) 100%);
+  background: linear-gradient(0deg, rgb(132, 144, 255) 0%, rgb(98, 189, 252) 100%); */
 
-}
+/* } */
 
 .count .box-container {
   display: grid;
